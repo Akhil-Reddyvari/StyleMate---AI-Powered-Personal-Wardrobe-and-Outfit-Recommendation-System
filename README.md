@@ -1,4 +1,4 @@
-# StyleMate — AI Personal Stylist
+# StyleMate — AI-Powered Personal Wardrobe and Outfit Recommendation System
 
 StyleMate is a personal wardrobe and outfit-recommendation application designed to help users organize their clothes, discover outfit combinations, track what they wear, and build more variety into their everyday styling.
 
